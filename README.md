@@ -94,4 +94,7 @@ After 5 seconds of continuous fault, the alarm latches.
 ---
 
 **Author:** [Okere Prince N.]
+
 **Contact:** [https://www.linkedin.com/in/prince-okere-686912177/]
+
+---
